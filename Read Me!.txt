@@ -1,0 +1,18 @@
+INSTRUCTION:
+
+Step1: Unzip file ClearTrip
+
+Then you will see following folder structure:
+../screenshots
+../scripts/script.js
+../styles/styles.css
+index.html
+Read Me!
+
+Step2: Run index.html in your browser
+
+You can access now best articles. By clicking on the header of the article, it will open that article in new tab.
+Through custom pagination at bottom, you can navigate to different articles.
+Sorting buttons are available on the top right corner to sort articles in ascending and descending order.
+
+
